@@ -36,3 +36,9 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.buttons img {
+  width: 60px;
+  margin: 0 20px;
+  cursor: pointer;
+}
