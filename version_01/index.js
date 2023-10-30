@@ -12,3 +12,7 @@ function stopwatch() {
     hours++;
   }
 }
+
+function watchStart() {
+  setInterval(stopwatch, 1000);
+}
