@@ -39,6 +39,10 @@ body {
 
 .buttons img {
   width: 60px;
-  margin: 0 20px;
+  margin: 35px 20px;
   cursor: pointer;
+}
+
+.buttons img:nth-child(2) {
+  width: 80px;
 }
